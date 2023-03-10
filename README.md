@@ -8,7 +8,7 @@
 ### 1. 이미지 분할
 예시)
 
-```python cut_image_mn_function.py --imgfile=test_img.png --cols=3 --rows=4 --prefix=test```
+```python cut_image_mn_function.py --imgfile=test_img.png --cols=3 --rows=4 --prefix=test```</br></br>
 
 
 
