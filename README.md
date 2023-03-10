@@ -1,10 +1,9 @@
-테스트용 이미지(test_img.png)</br> 
-
-분할(test_3X4_1678428729_awifb.jpg ...) 및 병합한 이미지(merged.jpg)</br> 
+테스트용 이미지(test_img.png), 분할(test_3X4_1678428729_awifb.jpg ...) 및 병합한 이미지(merged.jpg)</br> 
 
 이미지 분할용 코드(cut_image_mn_function.py)와 이미지 변환 및 병합 코드(merge_image_function.py)</br> 
 
-모두 같은 디렉토리에 올려져 동작하도록 했습니다.</br>
+모두 같은 디렉토리에 올려져 동작하도록 했습니다.</br></br>
+
 
 코드 실행 방법은 다음과 같습니다.</br></br></br>
 
