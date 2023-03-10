@@ -5,7 +5,7 @@
 
 
 
-### 1. 이미지 분할(cut_image_mn_function.py)
+### 1. 이미지 분할
 예시)
 
 ```python cut_image_mn_function.py --imgfile=test_img.png --cols=3 --rows=4 --prefix=test```
@@ -13,7 +13,7 @@
 
 
 
-### 2. 이미지 변환 및 병합(merge_image_function.py)
+### 2. 이미지 변환 및 병합
 -> filenameprefix에 이미지 분할했던 m*n의 크기를 입력해야 이미지 로드가 됩니다.
 
 예시)
